@@ -1,1 +1,1 @@
-# Odin-DOM-manipulation-and-events
+# odin-dom-manipulation-and-events
